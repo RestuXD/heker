@@ -16,4 +16,4 @@ Jika kalian mendapatkan akun dan akunnya cp loginkan di fb ori / di mbasic fb
 ```
 # reporting
 Jika Nemu bug atau pun error, dan juga kendala saat menggunakan script
-Hubungi WhatsApp author : <a href="https://wa.me/+6283870396203/?text=Hallo">WhatsApp Latip<\a>
+Hubungi WhatsApp author : <a href='https://wa.me/+6283870396203/?text=Hallo'>WhatsApp Latip<\a>
