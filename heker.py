@@ -3,7 +3,7 @@
 
 #hubungin saya jika itu penting :
 #WhatsApp : 083870396203
-#Facebook : Latip Harkat
+#Facebook : Latip Harkat XD
 author = 'Latip176' #author utama
 #libary / module import
 import requests as req,json,os,time,re,pyfiglet
